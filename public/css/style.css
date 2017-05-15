@@ -1,0 +1,68 @@
+// body{
+//     background: url("/pics/halftone.png");
+//     background-repeat: repeat;
+// }
+.navbar {
+	background-color: #191970;
+    height: 100px;
+    border-color: #E7E7E7;    
+    color: #F8F8F8;
+}
+/*Mazad Logo*/
+.navbar .navbar-brand{
+    color: #f8f8f8;
+    font-size: 1.6em;
+    margin-top: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 0;
+    border: 2px solid #f8f8f8;
+    border-radius: 5px 20px;
+}
+.divide{
+    display: block;
+    width: 30%;
+    float: left;
+}
+.divide h3 {
+    color: #bfdbfb;
+    padding-top: 6%;
+    padding-left: 8%;
+    font-size: 2.3em;
+    font-family: 'Fredericka the Great', cursive;
+}
+.glyphicon-fire{
+    font-size: 20px;
+}
+/*Home logo*/
+.navbar-nav a{
+    color: #F8F8F8;    
+    font-size: 1.4em;
+    margin-top: 14%;
+}
+.divide ul{
+    margin-left: 40%;
+    margin-top: 3%;
+}
+#mainNav {
+	padding-top: 20px;
+    font-family: 'Neuton', serif;
+}
+.list-inline {
+    font-size: 1.5em;
+}
+.articlestyle{
+   display: block;
+    width: 48%;
+    float: left;
+    padding: 0 2%;
+}
+.editprofilestyle{
+   display: block;
+    width: 48%;
+    float: left;
+    padding: 0 2%; 
+}
+/*thead {
+    background:#191970; 
+}*/

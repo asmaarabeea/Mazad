@@ -1,0 +1,6 @@
+laravel new mazad
+
+php artisan make:migration create_user_product_table
+
+php artisan migrate
+
